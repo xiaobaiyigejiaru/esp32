@@ -1,0 +1,14 @@
+{
+    "C_Cpp.intelliSenseEngine": "default",
+    "idf.espIdfPathWin": "C:\\Users\\15016\\esp\\v5.3.2\\esp-idf",
+    "idf.toolsPathWin": "C:\\Users\\15016\\.espressif",
+    "idf.openOcdConfigs": [
+        "board/esp32-bridge.cfg"
+    ],
+    "idf.portWin": "COM22",
+    "idf.flashType": "UART",
+    "files.associations": {
+        "protocol_examples_common.h": "c",
+        "bootloader_common.h": "c"
+    }
+}
